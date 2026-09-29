@@ -18,5 +18,5 @@
 <details>
 <summary>  </summary>
 
-AI真好用😃
+~~AI真好用😃~~
 </details>
